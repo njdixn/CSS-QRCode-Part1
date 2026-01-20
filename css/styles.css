@@ -27,7 +27,7 @@ img
     border-radius: 8pt;
 }
 
-h1, p
+h1
 {
     font-size: 22px;
     font-weight: 700;
@@ -42,6 +42,7 @@ p
     font-weight: 400;
     color: hsl(216, 15%, 48%);
     line-height: 1.35;
+    padding: 0px 20px 0px 20px;
 }
 
 
